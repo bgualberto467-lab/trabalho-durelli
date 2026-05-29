@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 
+using namespace std;
 // As 4 bases que o programa suporta
 #define BASE_DECIMAL 10
 #define BASE_BINARIO 2
